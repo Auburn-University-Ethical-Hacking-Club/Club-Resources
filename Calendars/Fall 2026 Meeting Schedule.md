@@ -1,12 +1,4 @@
 
-# 📅 Club Meeting Schedule
-
-### August 17 – December 5, 2026
-
-> **Meetings:** Every Tuesday at 5:00 PM  |  **Location:** Shelby 3129
-
----
-
 ## August
 
 |Date|Day|Time|Event|Topic|Speaker|Location|Notes|
