@@ -3,8 +3,10 @@
 
 |Date|Day|Time|Event|Topic|Speaker|Location|Notes|
 |---|---|---|---|---|---|---|---|
-|Aug 21–23|Fri–Sun||CyberFire Puzzles|||||
-|Aug 25|Tuesday|5:00 PM|Club Kickoff|Club Overview||Shelby 3129||
+|Aug 21 | Fri| 6:00pm - 8:00pm | CyberFire Puzzles | Los Alamos National Lab Overview| Dr. Aaron Pope (LANL) |Brown Kopel Ball Room |Kickoff Dinner|
+|Aug 22 | Sat | 10:00am - 9:00pm |CyberFire Puzzles| Host Forensics Class | LANL Staff |Brown Kopel Ball Room | Puzzles Open After Class(Registration Required) |
+|Aug 23 | Sun | 10:00am - 5:00pm |CyberFire Puzzles| Puzzles and Winner Announcement | LANL Staff |Brown Kopel Ball Room| (Registration Required) |
+|Aug 25 | Tuesday|5:00 PM|Club Kickoff|Club Overview| Marshall Nelson + Officers |Shelby 3129||
 
 ---
 
@@ -12,7 +14,7 @@
 
 |Date|Day|Time|Event|Topic|Speaker|Location|Notes|
 |---|---|---|---|---|---|---|---|
-|Sep 1|Tuesday|5:00 PM|Club Meeting|||Shelby 3129||
+|Sep 1|Tuesday|5:00 PM|Club Meeting| Software Supply Chain Security | Marshall Nelson |Shelby 3129||
 |Sep 8|Tuesday|5:00 PM|Lab Time|||Shelby 2117||
 |Sep 15|Tuesday|5:00 PM|Club Meeting|||Shelby 3129||
 |Sep 22|Tuesday|5:00 PM|Lab Time|||Shelby 2117||
