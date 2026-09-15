@@ -14,9 +14,9 @@
 
 |Date|Day|Time|Event|Topic|Speaker|Location|Notes|
 |---|---|---|---|---|---|---|---|
-|Sep 1|Tuesday|5:00 PM|Club Meeting| Software Supply Chain Security | Marshall Nelson |Shelby 2117||
-|Sep 8|Tuesday|5:00 PM|Lab Time|||Shelby 2117||
-|Sep 15|Tuesday|5:00 PM|Club Meeting|||Shelby 2117||
+|Sep 1|Tuesday|5:00 PM|Club Meeting| Intro to Cyber | Marshall Nelson |Shelby 2117||
+|Sep 8|Tuesday|5:00 PM|Lab Time|PicoGym Puzzles||Shelby 2117||
+|Sep 15|Tuesday|5:00 PM|Club Meeting|CyberToaster Summer @ LANL| Cooper Jackson |Shelby 2117||
 |Sep 22|Tuesday|5:00 PM|Lab Time|||Shelby 2117||
 |Sep 29|Tuesday|5:00 PM|Club Meeting|||Shelby 2117||
 
